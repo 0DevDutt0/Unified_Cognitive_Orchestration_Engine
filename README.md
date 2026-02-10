@@ -314,10 +314,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Devdutt S**
 
 ---
 
@@ -335,6 +332,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repo if you find it useful!**
 
-Made with ❤️ and 🤖 by [Your Name]
+Made with ❤️ and 🤖 by Devdutt S
 
 </div>
