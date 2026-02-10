@@ -1,4 +1,4 @@
-# 🧠 Unified Cognitive Orchestration Engine
+# 🧠 Unified Agentic Orchestration System
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![LangChain](https://img.shields.io/badge/LangChain-Powered-green.svg)](https://www.langchain.com/)
@@ -11,7 +11,7 @@
 
 ## 🎯 Overview
 
-The **Unified Cognitive Orchestration Engine** is a sophisticated AI-powered chatbot that leverages **agentic workflows** to intelligently route user queries to the most appropriate specialized agent. Built with LangChain and Streamlit, this system demonstrates advanced concepts in:
+The **Unified Agentic Orchestration System** is a sophisticated AI-powered chatbot that leverages **agentic workflows** to intelligently route user queries to the most appropriate specialized agent. Built with LangChain and Streamlit, this system demonstrates advanced concepts in:
 
 - 🤖 **Multi-Agent Architecture** - Coordinated AI agents working in harmony
 - 🧭 **Intelligent Routing** - Smart query classification and delegation
@@ -191,7 +191,7 @@ Analyze research papers and cross-reference with live web data.
 ## 📁 Project Structure
 
 ```
-unified-cognitive-orchestration-engine/
+Unified Agentic Orchestration System/
 │
 ├── app.py                      # Main Streamlit application
 ├── sql_agent.py                # SQL agent and Whisper utilities
